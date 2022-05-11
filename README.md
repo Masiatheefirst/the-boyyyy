@@ -1,2 +1,3 @@
-# the-boyyyy
-born leader
+ checkUsername(Masia)
+ checkPasswordComplexity(Billion@7)
+ string registerrUser(
